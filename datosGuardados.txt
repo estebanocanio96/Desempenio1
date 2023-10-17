@@ -1,0 +1,6 @@
+Cuenta: unica<br/>fecha: 12/7/1996<br/>Monto: $ 2,00
+Cuenta: unica<br/>fecha: 12/7/1996<br/>Monto: $ 2,00
+Cuenta: unica<br/>fecha: 12/7/1996<br/>Monto: $ 2,00
+Cuenta: Publica<br/>fecha: 12/7/2005<br/>Monto: $ 10,00
+Cuenta: Renta<br/>fecha: 12/7/2015<br/>Monto: $ 45,00
+Cuenta: unica<br/>fecha: 12/7/1996<br/>Monto: $ 2,00

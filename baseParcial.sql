@@ -1,0 +1,5 @@
+SELECT TOP (1000) [id]
+      ,[idCuentaContable]
+      ,[fecha]
+      ,[monto]
+  FROM [IssdTP42023].[dbo].[MovimientosContables]
